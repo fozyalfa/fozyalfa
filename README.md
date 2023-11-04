@@ -1,8 +1,8 @@
-- 👋 Hi, I’m ALPHA
+- 👋 Hi, I’m ALFA
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 Discord: fozyalfa 
 
 <!---
 fozyalfa/fozyalfa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
